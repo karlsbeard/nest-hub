@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview",
+     "dep": "pnpm build && zx ./script/deploy.mjs"
+  },
+  "devDependencies": {
+    "vue": "^3.5.16",
+    "@giscus/vue": "^3.1.1",
+    "@vue/theme": "^2.3.0"
+  }
+}
