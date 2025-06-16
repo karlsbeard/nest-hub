@@ -8,6 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
+      { text: '🛡️ 避坑指南', link: '/guide/' },
       { 
         text: '北京', 
         items: [
@@ -43,6 +44,36 @@ export default defineConfig({
     ],
 
     sidebar: {
+      '/guide/': [
+        {
+          text: '📖 指南总览',
+          link: '/guide/'
+        },
+        {
+          text: '🔍 租前准备',
+          link: '/guide/preparation'
+        },
+        {
+          text: '👀 实地看房',
+          link: '/guide/viewing'
+        },
+        {
+          text: '📝 签约谈判',
+          link: '/guide/contract'
+        },
+        {
+          text: '🏠 入住生活',
+          link: '/guide/living'
+        },
+        {
+          text: '⚠️ 常见陷阱',
+          link: '/guide/traps'
+        },
+        {
+          text: '🆘 维权指南',
+          link: '/guide/rights'
+        }
+      ],
       '/beijing/': [
         {
           text: '北京地区',
@@ -90,8 +121,8 @@ export default defineConfig({
     ],
 
     footer: {
-      message: '本指南由互联网从业者共同维护，仅供参考',
-      copyright: 'Copyright © 2024 互联网大厂租房指南'
+      message: '本指南由巢聚-旦聚旦团队与互联网从业者共同维护，仅供参考',
+      copyright: 'Copyright © 2025 互联网大厂租房指南'
     }
   }
 })

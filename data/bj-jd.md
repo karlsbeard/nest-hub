@@ -72,11 +72,3 @@ Loft
 再远一点到旧宫、宋家庄以及城里，均有班车；宋家庄附近可参考地铁亦庄线，总部在经海路地铁站对面，较为方便。
 
 除此之外还有合生世界花园、莲水怡园等，在马驹桥镇上，推荐指数低。莲水怡园是较老的小区，房屋和配置比较差。
-
-## 外部公开
-
-<https://joyspace.jd.com/sheets/7LFeAWEzVjMN0kDTfnYG>
-
-<https://joyspace.jd.com/pages/nkcy9hjeW8j9RykriDvL>
-
-<https://joyspace.jd.com/pages/T2mcT8nhymePyrB1qyQx>
