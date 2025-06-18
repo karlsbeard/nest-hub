@@ -171,10 +171,6 @@ nest-hub/
 - **功能建议**：[GitHub Discussions](https://github.com/yourusername/nest-hub/discussions)
 - **内容更新**：[提交 Pull Request](https://github.com/yourusername/nest-hub/pulls)
 
-## 📜 开源许可
-
-本项目采用 [MIT 许可证](LICENSE)，欢迎自由使用和贡献。
-
 ## 🎯 发展规划
 
 - [ ] 增加更多城市和公司覆盖
