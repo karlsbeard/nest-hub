@@ -117,7 +117,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/yourusername/nest-hub' }
+      { icon: 'github', link: 'https://github.com/karlsbeard/nest-hub' }
     ],
 
     footer: {

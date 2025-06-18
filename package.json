@@ -6,9 +6,12 @@
     "dep": "pnpm build && zx ./script/deploy.mjs"
   },
   "devDependencies": {
+    "vitepress": "^1.5.0",
+    "zx": "^8.3.0"
+  },
+  "dependencies": {
     "@giscus/vue": "^3.1.1",
     "@vue/theme": "^2.3.0",
-    "vitepress": "^1.6.3",
-    "vue": "^3.5.16"
+    "vue": "^3.5.13"
   }
 }
